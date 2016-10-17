@@ -17,28 +17,29 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > myDentist - The go-to app for making appointments with Dentists that provide chat feedback.
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > For everyone that needed a notification whether their appointment was scheduled and for emergencies where time is crucial.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > myDentist is a web app that gives you control over what Dentist you would like to make a appointment with. We have partnered with major Dentist branches to provide a network of Dentists that fit everyone's needs. Just simply search for a Dentist that is close to you and you will be able to pick a appointment. After making your apppointment, you will receive quick feedback on your scheduled appointment with a online chat with the Dentist you chose.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > When you have a emergency and you need to know if your appointment is made or not. Most dentist systems will either email you or call you, during the next business day.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  >  myDentist keeps you connected to your Dentist, so you aren't left in the dark, you can even ask your Dentist if you are unsure about something.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > 'myDentist is my solution to slow responses from Dentist, with a friendly chat system that directly connects you to your Dentist.' - CEO, Jarrett K.
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > Start using myDentist today! Simply go to the site and start searching without signing up. Our system will find local Dentist with great ratings from satisfied customers. Once you pick your Dentist, you will be provided credentials of that Dentist and what days they are available. Make your appointment and be connected to your Dentist for questions or feedback on your scheduled appointment.
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > 'myDentist is amazing, I received fast feedback with my Dentist, Dr. Ruby and I felt reassured!' - Harry L.
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > Never again will you have to wait to know if your appointment is made or not, start using myDentist and smile from the inside too!
+  > Start now   (site here)
