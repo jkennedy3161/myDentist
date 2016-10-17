@@ -9,8 +9,3 @@ app.use(express.static(path.join(__dirname, '/public')));
 app.listen(8080);
 
 console.log('Connected to your server');
-
-app.get('/', function(req, res) {
-	res.write('server is connected!');
-	res.end();
-});
