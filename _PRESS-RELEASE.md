@@ -1,4 +1,4 @@
-# Project Name #
+# myDentist #
 
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
@@ -17,7 +17,7 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > myDentist - The go-to app for making appointments with Dentists that provide chat feedback.
+  > The go-to app for making appointments with Dentists that provide chat feedback.
 
 ## Sub-Heading ##
   > For everyone that needed a notification whether their appointment was scheduled and for emergencies where time is crucial.
