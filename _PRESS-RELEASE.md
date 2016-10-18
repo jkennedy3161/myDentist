@@ -16,30 +16,20 @@ Oh, and I also like to write press-releases in what I call "Oprah-speak" for mai
 Once the project moves into development, the press release can be used as a touchstone; a guiding light. The product team can ask themselves, "Are we building what is in the press release?" If they find they're spending time building things that aren't in the press release (overbuilding), they need to ask themselves why. This keeps product development focused on achieving the customer benefits and not building extraneous stuff that takes longer to build, takes resources to maintain, and doesn't provide real customer benefit (at least not enough to warrant inclusion in the press release).
  -->
  
-## Heading ##
-  > The go-to app for making appointments with Dentists that provide chat feedback.
+## The go-to app for making appointments with Dentists that provide chat feedback. ## 
 
-## Sub-Heading ##
-  > For everyone that needed a notification whether their appointment was scheduled and for emergencies where time is crucial.
+## For everyone that needed a notification whether their appointment was scheduled and for emergencies where time is crucial. ##
 
-## Summary ##
-  > myDentist is a web app that gives you control over what Dentist you would like to make a appointment with. We have partnered with major Dentist branches to provide a network of Dentists that fit everyone's needs. Just simply search for a Dentist that is close to you and you will be able to pick a appointment. After making your apppointment, you will receive quick feedback on your scheduled appointment with a online chat with the Dentist you chose.
+## myDentist is a web app that gives you control over what Dentist you would like to make a appointment with. We have partnered with major Dentist branches to provide a network of Dentists that fit everyone's needs. Just simply search for a Dentist that is close to you and you will be able to pick a appointment. After making your apppointment, you will receive quick feedback on your scheduled appointment with a online chat with the Dentist you chose. ##
 
-## Problem ##
-  > When you have a emergency and you need to know if your appointment is made or not. Most dentist systems will either email you or call you, during the next business day.
+## When you have a emergency and you need to know if your appointment is made or not. Most dentist systems will either email you or call you, during the next business day. ##
 
-## Solution ##
-  >  myDentist keeps you connected to your Dentist, so you aren't left in the dark, you can even ask your Dentist if you are unsure about something.
+## myDentist keeps you connected to your Dentist, so you aren't left in the dark, you can even ask your Dentist if you are unsure about something. ##
 
-## Quote from You ##
-  > 'myDentist is my solution to slow responses from Dentist, with a friendly chat system that directly connects you to your Dentist.' - CEO, Jarrett K.
+## 'myDentist is my solution to slow responses from Dentist, with a friendly chat system that directly connects you to your Dentist.' - CEO, Jarrett K. ##
 
-## How to Get Started ##
-  > Start using myDentist today! Simply go to the site and start searching without signing up. Our system will find local Dentist with great ratings from satisfied customers. Once you pick your Dentist, you will be provided credentials of that Dentist and what days they are available. Make your appointment and be connected to your Dentist for questions or feedback on your scheduled appointment.
+## Start using myDentist today! Simply go to the site and start searching without signing up. Our system will find local Dentist with great ratings from satisfied customers. Once you pick your Dentist, you will be provided credentials of that Dentist and what days they are available. Make your appointment and be connected to your Dentist for questions or feedback on your scheduled appointment. ##
 
-## Customer Quote ##
-  > 'myDentist is amazing, I received fast feedback with my Dentist, Dr. Ruby and I felt reassured!' - Harry L.
+## 'myDentist is amazing, I received fast feedback with my Dentist, Dr. Ruby and I felt reassured!' - Harry L. ##
 
-## Closing and Call to Action ##
-  > Never again will you have to wait to know if your appointment is made or not, start using myDentist and smile from the inside too!
-  > Start now   (site here)
+## Never again will you have to wait to know if your appointment is made or not, start using myDentist and smile from the inside too! Start now  (site here) ##
