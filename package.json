@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jkennedy3161/myDentist#readme",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "express": "^4.14.0"
   }
 }
