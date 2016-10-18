@@ -12,3 +12,7 @@ app.listen(port);
 
 console.log('Connected to your server');
 
+app.get('/dentists', function(req, res) {
+	res.render(req.body);
+});
+

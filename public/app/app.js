@@ -1,8 +1,8 @@
 // starts the module and links the external dependencies
 angular.module('dentistApp', [])
 
-.controller('appController', function($scope) {
-	console.log('$scope is ' + $scope)
+.controller('appController', function($scope, $http) {
+
 	// hardcoded dentists
 	$scope.dentists = [{
 		'name' : 'Dr. Hill',
@@ -15,54 +15,14 @@ angular.module('dentistApp', [])
 		'available' : false
 	},
 	{
-		'name' : 'Dr. Filstein',
-		'exp' : '12 years',
-		'available' : true
-	},
-	{
-		'name' : 'Dr. Hill',
+		'name' : 'Dr. Gulp',
 		'exp' : '9 years',
 		'available' : true
 	},
 	{
-		'name' : 'Dr. Gary',
+		'name' : 'Dr. Suzie',
 		'exp' : '6 years',
 		'available' : false
-	},
-	{
-		'name' : 'Dr. Filstein',
-		'exp' : '12 years',
-		'available' : true
-	},
-	{
-		'name' : 'Dr. Hill',
-		'exp' : '9 years',
-		'available' : true
-	},
-	{
-		'name' : 'Dr. Gary',
-		'exp' : '6 years',
-		'available' : false
-	},
-	{
-		'name' : 'Dr. Filstein',
-		'exp' : '12 years',
-		'available' : true
-	},
-	{
-		'name' : 'Dr. Hill',
-		'exp' : '9 years',
-		'available' : true
-	},
-	{
-		'name' : 'Dr. Gary',
-		'exp' : '6 years',
-		'available' : false
-	},
-	{
-		'name' : 'Dr. Filstein',
-		'exp' : '12 years',
-		'available' : true
 	}
 	]
 });
